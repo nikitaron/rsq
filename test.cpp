@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <string>
 #include <vector>
-#include "Header.h"
+#include "rsq.h"
 
 using namespace std;
 
