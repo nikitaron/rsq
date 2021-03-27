@@ -1,6 +1,6 @@
 #include <vector>
 #include <iostream>
-#include "Header.h"
+#include "rsq.h"
 
 node* build(std::vector<int>& a, int L, int R) // build tree 
 {
